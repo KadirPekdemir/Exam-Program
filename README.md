@@ -6,4 +6,4 @@ This desktop application allows teachers to create exams, assign them to their s
 
 ## Ekran Görüntüleri
 
-![Login Screen](images/p1.png)
+![Login Screen](images/p1.jpeg)
